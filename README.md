@@ -1,6 +1,6 @@
 # MATH3881/5881: Statistical Machine Learning Theory
 
-This repository contains lecture notes, Jupyter notebooks, and related materials for the course **MATH3881/5881 - Statistical Machine Learning Theory** offered at **UNSW**.
+This repository contains lecture notes, Jupyter notebooks, and related materials for the course **MATH3881/5881 - Statistical Machine Learning Theory** offered at **UNSW**, taught by <a href="https://saratmoka.com/" target="_blank" rel="noopener">Sarat Moka</a> (Weeks 1 - 5) and <a href="https://www.unsw.edu.au/staff/sahani-pathiraja" target="_blank" rel="noopener">Sahani Pathiraja</a> (Weeks 7 - 10).
 
 ## Course Overview
 
